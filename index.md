@@ -37,9 +37,9 @@ Select a language to view more information on which translations are missing.
             <span class="pb-fill" style="width: 98.62%;"></span>
         </div>
     </td></tr>
-    <tr><td><a href="fi.html">fi</a></td><td>80.66%</td><td>
+    <tr><td><a href="fi.html">fi</a></td><td>90.33%</td><td>
         <div class="pb">
-            <span class="pb-fill" style="width: 80.66%;"></span>
+            <span class="pb-fill" style="width: 90.33%;"></span>
         </div>
     </td></tr>
     <tr><td><a href="fr.html">fr</a></td><td>99.83%</td><td>
@@ -72,14 +72,14 @@ Select a language to view more information on which translations are missing.
             <span class="pb-fill" style="width: 43.35%;"></span>
         </div>
     </td></tr>
-    <tr><td><a href="ja.html">ja</a></td><td>98.62%</td><td>
+    <tr><td><a href="ja.html">ja</a></td><td>100%</td><td>
         <div class="pb">
-            <span class="pb-fill" style="width: 98.62%;"></span>
+            <span class="pb-fill" style="width: 100%;"></span>
         </div>
     </td></tr>
-    <tr><td><a href="ko.html">ko</a></td><td>60.79%</td><td>
+    <tr><td><a href="ko.html">ko</a></td><td>99.83%</td><td>
         <div class="pb">
-            <span class="pb-fill" style="width: 60.79%;"></span>
+            <span class="pb-fill" style="width: 99.83%;"></span>
         </div>
     </td></tr>
     <tr><td><a href="lt.html">lt</a></td><td>44.04%</td><td>
@@ -97,9 +97,9 @@ Select a language to view more information on which translations are missing.
             <span class="pb-fill" style="width: 100%;"></span>
         </div>
     </td></tr>
-    <tr><td><a href="pt.html">pt</a></td><td>98.45%</td><td>
+    <tr><td><a href="pt.html">pt</a></td><td>100%</td><td>
         <div class="pb">
-            <span class="pb-fill" style="width: 98.45%;"></span>
+            <span class="pb-fill" style="width: 100%;"></span>
         </div>
     </td></tr>
     <tr><td><a href="ru.html">ru</a></td><td>100%</td><td>
@@ -141,4 +141,4 @@ Select a language to view more information on which translations are missing.
 
 -------------------
 
-*Auto-generated on **Mon, 12 Jun 2023 15:11:59 +0000**, with the last change in [jstris-multilang GitHub](https://github.com/jezevec10/jstris-multilang/).*
+*Auto-generated on **Tue, 01 Oct 2024 18:20:49 +0000**, with the last change in [jstris-multilang GitHub](https://github.com/jezevec10/jstris-multilang/).*
